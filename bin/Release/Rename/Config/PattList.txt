@@ -1,0 +1,13 @@
+Col_#lux
+MTF_#lux
+SNR_#lux
+Star_#lux
+AWB_#_NoOcc
+AWB_#_red
+AWB_#_green
+AWB_#_blue
+AWB_#_orange
+AWB_#_yellow
+LensFlare_#deg
+LightFalloff_#lux
+Diorama_#lux

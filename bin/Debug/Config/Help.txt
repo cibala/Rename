@@ -1,0 +1,16 @@
+Pattern Example:
+
+GM_AWB:
+  GM_AWB_0, GM_AWB_1...
+
+GM_Module_#_AWB:
+  GM_Module_0_AWB, GM_Module_1_AWB...
+
+GM_Module_###_AWB:
+  GM_Module_000_AWB, GM_Module_001_AWB...
+
+GM_*:
+  GM_[ori file name]
+
+Pattern="GM_AWB_#_green" + Custom Sequence="D65, CWF":
+  GM_AWB_D65_green, GM_AWB_CWF_green
