@@ -52,4 +52,5 @@ A flexible re-name tool
 	check on "Custom sequence..." and fill "D65, CWF, TL84"
 * renamed file:
 	GM_AWB_D65_green, GM_AWB_CWF_green, GM_AWB_TL84_green
-
+![Main Windows](pic/Main.JPG)
+![Confirmation Windows](pic/Confirm.JPG)
